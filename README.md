@@ -100,6 +100,15 @@ Descobri minha vocação para a área de tecnologia ao ser aprovado na prova par
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
 />
 
+<img
+  align="left"
+  alt="Nuxt JS"
+  title="Nuxt JS"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg"
+/>
+
 <br/>
 <br/>
 
