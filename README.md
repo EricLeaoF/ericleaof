@@ -39,6 +39,24 @@ Descobri minha vocação para a área de tecnologia ao ser aprovado na prova par
 
 <img
   align="left"
+  alt="Vue JS"
+  title="Vue JS"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
+/>
+
+<img
+  align="left"
+  alt="Nuxt JS"
+  title="Nuxt JS"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg"
+/>
+
+<img
+  align="left"
   alt="TypeScript"
   title="TypeScript"
   width="30px"
@@ -89,24 +107,6 @@ Descobri minha vocação para a área de tecnologia ao ser aprovado na prova par
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-/>
-
-<img
-  align="left"
-  alt="Vue JS"
-  title="Vue JS"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
-/>
-
-<img
-  align="left"
-  alt="Nuxt JS"
-  title="Nuxt JS"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg"
 />
 
 <br/>
