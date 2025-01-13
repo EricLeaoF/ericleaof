@@ -12,6 +12,15 @@ Descobri minha vocação para a área de tecnologia ao ser aprovado na prova par
 
 <img
   align="left"
+  alt="CSS"
+  title="CSS"
+  width="30px"
+  style="padding-right: 10px;"
+  src=""
+/>
+
+<img
+  align="left"
   alt="HTML"
   title="HTML"
   width="30px"
@@ -30,8 +39,8 @@ Descobri minha vocação para a área de tecnologia ao ser aprovado na prova par
 
 <img
   align="left"
-  alt="CSS"
-  title="CSS"
+  alt="JavaScript"
+  title="JavaScript"
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
@@ -39,8 +48,8 @@ Descobri minha vocação para a área de tecnologia ao ser aprovado na prova par
 
 <img
   align="left"
-  alt="CSS"
-  title="CSS"
+  alt="TypeScript"
+  title="TypeScript"
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
@@ -48,8 +57,8 @@ Descobri minha vocação para a área de tecnologia ao ser aprovado na prova par
 
 <img
   align="left"
-  alt="CSS"
-  title="CSS"
+  alt="React"
+  title="React"
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
@@ -57,8 +66,8 @@ Descobri minha vocação para a área de tecnologia ao ser aprovado na prova par
 
 <img
   align="left"
-  alt="CSS"
-  title="CSS"
+  alt="JQuery"
+  title="JQuery"
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"
@@ -66,8 +75,8 @@ Descobri minha vocação para a área de tecnologia ao ser aprovado na prova par
 
 <img
   align="left"
-  alt="CSS"
-  title="CSS"
+  alt="RabbitMQ"
+  title="RabbitMQ"
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"
@@ -75,8 +84,8 @@ Descobri minha vocação para a área de tecnologia ao ser aprovado na prova par
 
 <img
   align="left"
-  alt="CSS"
-  title="CSS"
+  alt="AWS"
+  title="AWS"
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
@@ -84,8 +93,8 @@ Descobri minha vocação para a área de tecnologia ao ser aprovado na prova par
 
 <img
   align="left"
-  alt="CSS"
-  title="CSS"
+  alt="Vue JS"
+  title="Vue JS"
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
@@ -102,7 +111,7 @@ Descobri minha vocação para a área de tecnologia ao ser aprovado na prova par
     alt="Github Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=EricLeaoF&show_icons=true&theme=tokyonight%include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=EricLeaoF&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
   <img
