@@ -12,15 +12,6 @@ Descobri minha vocação para a área de tecnologia ao ser aprovado na prova par
 
 <img
   align="left"
-  alt="CSS"
-  title="CSS"
-  width="30px"
-  style="padding-right: 10px;"
-  src=""
-/>
-
-<img
-  align="left"
   alt="HTML"
   title="HTML"
   width="30px"
