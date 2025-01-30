@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack`**
 
-Olá! Me chamo Eric, sou desenvolvedor de software e possuo 3 anos de experiência na área de tecnologia. Formado em Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo (UNICID).
+Olá! Me chamo Eric, sou desenvolvedor de software e possuo 4 anos de experiência na área de tecnologia. Formado em Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo (UNICID).
 
 Descobri minha vocação para a área de tecnologia ao ser aprovado na prova para estudar na Escola Técnica Estadual (ETEC), onde me formei como técnico em Automação Industrial e me destaquei nas matérias de programação em C++.
 
